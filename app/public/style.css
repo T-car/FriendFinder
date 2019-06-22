@@ -1,0 +1,42 @@
+/* body{ */
+    /* background-image: url("friends.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; */
+/* } */
+
+.title {
+    color: darkslategray;
+    opacity: .80;
+    margin-top: 20px;
+}
+
+.survey {
+    color: black;
+    margin-top: 20px;
+    background-image: url("friends2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: .75;
+}
+
+#submit {
+    background: darkslategray;
+}
+
+#jumbo_h2 {
+    color: darkslategray;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+
+.panel-title {
+    color: darkslategray;
+
+}
