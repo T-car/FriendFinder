@@ -1,4 +1,5 @@
 # FriendFinder
 
-#Deployed website on Herokue
+# Deployed website on Heroku
+
 https://fast-shelf-97183.herokuapp.com/success
